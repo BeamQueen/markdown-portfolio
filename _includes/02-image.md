@@ -1,1 +1,1 @@
-Replace this with an image, like your photo. Ensure you include some alt-text.
+![image of a gymnast](https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcRNEgBkBkPkjAR2bbznra8GJ-viviWi7_1Ztg&usqp=CAU)
